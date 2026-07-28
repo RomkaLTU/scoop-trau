@@ -1,0 +1,17 @@
+{
+    "version": "2.7.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/RomkaLTU/trau/releases/download/v2.7.0/trau_2.7.0_windows_amd64.zip",
+            "hash": "efa50d520c09d4687c5eb9c342c234770664ab21c91c536be6e51b5d7455f73f"
+        },
+        "arm64": {
+            "url": "https://github.com/RomkaLTU/trau/releases/download/v2.7.0/trau_2.7.0_windows_arm64.zip",
+            "hash": "b851708f2bcf94d994de7a84b826f7d31f73641cb5ad79d4aebab34f5fc2059f"
+        }
+    },
+    "homepage": "https://trau.sh",
+    "description": "Autonomous, ticket-driven development loop",
+    "license": "Apache-2.0",
+    "bin": "trau.exe"
+}
