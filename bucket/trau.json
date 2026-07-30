@@ -1,19 +1,19 @@
 {
-    "version": "2.12.0",
+    "version": "2.13.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/RomkaLTU/trau/releases/download/v2.12.0/trau_2.12.0_windows_amd64.zip",
+            "url": "https://github.com/RomkaLTU/trau/releases/download/v2.13.0/trau_2.13.0_windows_amd64.zip",
             "bin": [
                 "trau.exe"
             ],
-            "hash": "d32e797a4db58ce884b517168fca5c6c6d8a68134cbff0e367866d58a55b114b"
+            "hash": "c82eb171f3e376fa38db14f59af0b5ea4c935527d0d0b5af959605e5ac413c47"
         },
         "arm64": {
-            "url": "https://github.com/RomkaLTU/trau/releases/download/v2.12.0/trau_2.12.0_windows_arm64.zip",
+            "url": "https://github.com/RomkaLTU/trau/releases/download/v2.13.0/trau_2.13.0_windows_arm64.zip",
             "bin": [
                 "trau.exe"
             ],
-            "hash": "849258cd1967d65ae181902e13418ade7055fac91b59e74b8a71c5138c6c1e72"
+            "hash": "eee903c6aea253d518811e72cf6dcb30479da8e69b51c3e1d1034ced69d87761"
         }
     },
     "homepage": "https://trau.sh",
